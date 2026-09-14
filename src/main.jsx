@@ -70,7 +70,7 @@ const devProjects = [
   {
     title: 'Shopora E-commerce',
     tag: 'E-commerce',
-    image: 'Screenshot (301).png',
+    image: 'Screenshot 2026-09-12 190032.png',
     desc: 'A modern marketplace interface focused on discovery, product browsing and conversion.',
     github: 'https://github.com/anna11452/Shopora-Ecommerce-Site.git'
   },
