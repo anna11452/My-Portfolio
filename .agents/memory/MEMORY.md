@@ -1,0 +1,1 @@
+- [Imported Node binary permissions](imported-node-binaries.md) — check execute bits when preloaded npm tools fail with “Permission denied.”
