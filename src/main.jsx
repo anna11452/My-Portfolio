@@ -4,7 +4,7 @@ import { ArrowUpRight, Code2, Palette, Menu, X } from 'lucide-react';
 import './styles.css';
 
 const A = '/assets/';
-const BEHANCE_URL = 'https://www.behance.net/joanari';
+const BEHANCE_URL = 'https://www.behance.net/joanariemu';
 const GITHUB_URL = 'https://github.com/anna11452';
 
 const brands = [
